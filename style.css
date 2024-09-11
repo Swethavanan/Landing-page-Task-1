@@ -809,6 +809,7 @@ box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
 }
 .blog1 h5{
     color: var(--black-color);
+    padding-left: 10px;
     
 }
 .blog2{
@@ -817,6 +818,7 @@ box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
 }
 .blog2 h5{
     color: var(--black-color);
+    padding-left: 10px;
 }
 .blog3{
     background-color: var(--pwhite-color);
@@ -824,6 +826,7 @@ box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
 }
 .blog3 h5{
     color: var(--black-color);
+    padding-left: 10px;
 }
 .blog4{
     background-color: var(--pwhite-color);
@@ -831,6 +834,7 @@ box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
 }
 .blog4 h5{
     color: var(--black-color);
+    padding-left: 10px;
 }
 .update-page .blog1 img{
     border-radius: 4px;
@@ -848,21 +852,25 @@ box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
     font-weight: normal;
     color: var(--grey-color);
     font-size: small;
+    padding-left: 10px;
 }
 .blog2 p{
     font-weight: normal;
     color: var(--grey-color);
     font-size: small;
+    padding-left: 10px;
 }
 .blog3 p{
     font-weight: normal;
     color: var(--grey-color);
     font-size: small;
+    padding-left: 10px;
 }
 .blog4 p{
     font-weight: normal;
     color: var(--grey-color);
     font-size: small;
+    padding-left: 10px;
 }
 .blog1:hover{
     transform: translateY(3px);
