@@ -807,17 +807,30 @@ box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
     background-color: var(--pwhite-color);
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
 }
+.blog1 h5{
+    color: var(--black-color);
+    
+}
 .blog2{
     background-color: var(--pwhite-color);
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.blog2 h5{
+    color: var(--black-color);
 }
 .blog3{
     background-color: var(--pwhite-color);
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
 }
+.blog3 h5{
+    color: var(--black-color);
+}
 .blog4{
     background-color: var(--pwhite-color);
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
+}
+.blog4 h5{
+    color: var(--black-color);
 }
 .update-page .blog1 img{
     border-radius: 4px;
